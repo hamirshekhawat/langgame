@@ -1,0 +1,174 @@
+{
+  "📖 Chapters": [
+    {
+      "id": "chap_01_park",
+      "title": "A Morning in the Park",
+      "theme": "nature",
+      "grid_size": "10x8",
+      "background": "bg_park_day",
+      "soundscape": "ambient_birds",
+      "unlock_condition": ""
+    },
+    {
+      "id": "chap_02_cafe",
+      "title": "A Cozy Cafe",
+      "theme": "urban",
+      "grid_size": "8x8",
+      "background": "bg_cafe_interior",
+      "soundscape": "ambient_chatter",
+      "unlock_condition": "complete_chap_01_park"
+    },
+    {
+      "id": "chap_03_station",
+      "title": "The Train Station",
+      "theme": "transport",
+      "grid_size": "12x10",
+      "background": "bg_station_platform",
+      "soundscape": "ambient_trains",
+      "unlock_condition": "complete_chap_02_cafe"
+    },
+    {
+      "id": "chap_04_market",
+      "title": "The Bustling Market",
+      "theme": "commerce",
+      "grid_size": "15x12",
+      "background": "bg_market_square",
+      "soundscape": "ambient_market",
+      "unlock_condition": "complete_chap_03_station"
+    },
+    {
+      "id": "chap_05_school",
+      "title": "A Day at School",
+      "theme": "education",
+      "grid_size": "12x12",
+      "background": "bg_school_campus",
+      "soundscape": "ambient_schoolbell",
+      "unlock_condition": "complete_chap_04_market"
+    }
+  ],
+  "💬 Sentences": [
+    {
+      "id": "sent_01_01_hello",
+      "text_zh": "你好",
+      "pinyin": "nǐ hǎo",
+      "text_en": "Hello",
+      "audio_clip": "audio/sent_01_01.mp3",
+      "is_discovery": false,
+      "hint_en": "A simple greeting to start your day."
+    },
+    {
+      "id": "sent_01_02_park_is_big",
+      "text_zh": "公园很大",
+      "pinyin": "gōngyuán hěn dà",
+      "text_en": "The park is big.",
+      "audio_clip": "audio/sent_01_02.mp3",
+      "is_discovery": false,
+      "hint_en": "Describing the place you've arrived at."
+    },
+    {
+      "id": "sent_01_03_tree_is_tall",
+      "text_zh": "树很高",
+      "pinyin": "shù hěn gāo",
+      "text_en": "The tree is tall.",
+      "audio_clip": "audio/sent_01_03.mp3",
+      "is_discovery": false,
+      "hint_en": "Observing a specific object in the park."
+    },
+    {
+      "id": "sent_disco_01_birds_sing",
+      "text_zh": "鸟在树上唱歌",
+      "pinyin": "niǎo zài shù shàng chànggē",
+      "text_en": "Birds are singing in the tree.",
+      "audio_clip": "audio/sent_disco_01.mp3",
+      "is_discovery": true,
+      "hint_en": "Unlocked when a bird appears in the tall tree."
+    }
+  ],
+  "📚 Tokens": [
+    {
+      "id": "token_char_wo",
+      "text_zh": "我",
+      "pinyin": "wǒ",
+      "type": "pronoun",
+      "grammar_role": "subject",
+      "meaning_en": "I, me",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_ni",
+      "text_zh": "你",
+      "pinyin": "nǐ",
+      "type": "pronoun",
+      "grammar_role": "subject",
+      "meaning_en": "you",
+      "is_discovery_only": false
+    }
+  ],
+  "🌍 WorldTiles": [
+    {
+      "id": "tile_obj_park_entrance",
+      "name": "Park Entrance",
+      "type": "structure",
+      "theme": "nature",
+      "animation_tags": "",
+      "scene_description": "An isometric stone archway with 'Park' written on it. Unlocked by \"Hello,\" it's the welcoming entry to the scene.",
+      "hex_color": "#AAB7B8"
+    },
+    {
+      "id": "tile_obj_large_park",
+      "name": "Large Park Ground",
+      "type": "scenery",
+      "theme": "nature",
+      "animation_tags": "",
+      "scene_description": "A wide, grassy isometric ground tile. Unlocked by \"The park is big,\" it establishes the large, open space of the chapter.",
+      "hex_color": "#ABEBC6"
+    }
+  ],
+  "🔍 DiscoveryPatterns": [
+    {
+      "pattern_id": "disco_01_life",
+      "pattern_type": "adjacent",
+      "required_tiles": "tile_obj_tall_tree,tile_obj_singing_bird",
+      "unlocks_sentence_id": "sent_disco_01_birds_sing",
+      "unlocks_token_ids": "token_noun_niao,token_prep_shang,token_verb_changge",
+      "min_tiles": 2,
+      "combined_scene_description": "When the 'Singing Bird' tile is unlocked, it automatically appears near the 'Tall Tree' tile. The resulting scene shows a living ecosystem, naturally suggesting the sentence 'Birds are singing in the tree'."
+    }
+  ],
+  "🔗 ChapterSentences": [
+    {
+      "chapter_id": "chap_01_park",
+      "sentence_id": "sent_01_01_hello",
+      "unlock_order": 1,
+      "unlocked_tile_id": "tile_obj_park_entrance"
+    },
+    {
+      "chapter_id": "chap_01_park",
+      "sentence_id": "sent_01_02_park_is_big",
+      "unlock_order": 2,
+      "unlocked_tile_id": "tile_obj_large_park"
+    }
+  ],
+  "📑 TeamDocs": [
+    {
+      "doc_type": "Design GDD",
+      "owner": "Product Lead",
+      "link": "link_to_gdd",
+      "description": "Main Game Design Document"
+    },
+    {
+      "doc_type": "Art Style Guide",
+      "owner": "Art Lead",
+      "link": "link_to_art_assets",
+      "description": "Visual targets and asset specifications"
+    }
+  ],
+  "Changelog": [
+    {
+      "version": "v4.0",
+      "date": "2025-07-08",
+      "author": "AI Assistant",
+      "changes": "Major content overhaul. Implemented narrative flow and smooth difficulty curve for sentences in all 5 chapters. Rewrote DiscoveryPattern descriptions to reflect automatic tile placement."
+    }
+  ]
+}
