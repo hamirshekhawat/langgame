@@ -82,6 +82,294 @@
       "audio_clip": "audio/sent_disco_01.mp3",
       "is_discovery": true,
       "hint_en": "Unlocked when a bird appears in the tall tree."
+    },
+    {
+      "id": "sent_02_01_i_want_coffee",
+      "text_zh": "我要咖啡",
+      "pinyin": "wǒ yào kāfēi",
+      "text_en": "I want coffee.",
+      "audio_clip": "audio/sent_02_01.mp3",
+      "is_discovery": false,
+      "hint_en": "Ordering a drink."
+    },
+    {
+      "id": "sent_02_02_i_sit_here",
+      "text_zh": "我坐在这里",
+      "pinyin": "wǒ zuò zài zhèlǐ",
+      "text_en": "I sit here.",
+      "audio_clip": "audio/sent_02_02.mp3",
+      "is_discovery": false,
+      "hint_en": "Finding a place to relax."
+    },
+    {
+      "id": "sent_02_03_she_reads_book",
+      "text_zh": "她看书",
+      "pinyin": "tā kàn shū",
+      "text_en": "She reads a book.",
+      "audio_clip": "audio/sent_02_03.mp3",
+      "is_discovery": false,
+      "hint_en": "Noticing another person in the cafe."
+    },
+    {
+      "id": "sent_02_04_music_is_nice",
+      "text_zh": "音乐很好听",
+      "pinyin": "yīnyuè hěn hǎotīng",
+      "text_en": "The music is nice.",
+      "audio_clip": "audio/sent_02_04.mp3",
+      "is_discovery": false,
+      "hint_en": "Commenting on the cafe's atmosphere."
+    },
+    {
+      "id": "sent_disco_02_cat_sleeps",
+      "text_zh": "猫在椅子下睡觉",
+      "pinyin": "māo zài yǐzi xià shuìjiào",
+      "text_en": "The cat sleeps under the chair.",
+      "audio_clip": "audio/sent_disco_02.mp3",
+      "is_discovery": true,
+      "hint_en": "Unlocked when a cat appears near the chair."
+    },
+    {
+      "id": "sent_03_01_i_need_ticket",
+      "text_zh": "我需要一张票",
+      "pinyin": "wǒ xūyào yī zhāng piào",
+      "text_en": "I need a ticket.",
+      "audio_clip": "audio/sent_03_01.mp3",
+      "is_discovery": false,
+      "hint_en": "The first step for train travel."
+    },
+    {
+      "id": "sent_03_02_where_is_train",
+      "text_zh": "火车在哪里",
+      "pinyin": "huǒchē zài nǎlǐ",
+      "text_en": "Where is the train?",
+      "audio_clip": "audio/sent_03_02.mp3",
+      "is_discovery": false,
+      "hint_en": "Asking for directions."
+    },
+    {
+      "id": "sent_03_03_train_is_on_platform_one",
+      "text_zh": "火车在一号站台",
+      "pinyin": "huǒchē zài yī hào zhàntái",
+      "text_en": "The train is on platform one.",
+      "audio_clip": "audio/sent_03_03.mp3",
+      "is_discovery": false,
+      "hint_en": "Getting the information you need."
+    },
+    {
+      "id": "sent_03_04_train_is_coming",
+      "text_zh": "火车来了",
+      "pinyin": "huǒchē lái le",
+      "text_en": "The train is coming.",
+      "audio_clip": "audio/sent_03_04.mp3",
+      "is_discovery": false,
+      "hint_en": "The train is arriving."
+    },
+    {
+      "id": "sent_03_05_my_suitcase_is_heavy",
+      "text_zh": "我的行李箱很重",
+      "pinyin": "wǒ de xínglǐxiāng hěn zhòng",
+      "text_en": "My suitcase is heavy.",
+      "audio_clip": "audio/sent_03_05.mp3",
+      "is_discovery": false,
+      "hint_en": "A common travel complaint."
+    },
+    {
+      "id": "sent_disco_03_time_is_late",
+      "text_zh": "时间不早了",
+      "pinyin": "shíjiān bù zǎo le",
+      "text_en": "It's getting late.",
+      "audio_clip": "audio/sent_disco_03.mp3",
+      "is_discovery": true,
+      "hint_en": "Unlocked when the station clock shows a late time."
+    },
+    {
+      "id": "sent_04_01_look_at_fruit",
+      "text_zh": "看这些水果",
+      "pinyin": "kàn zhèxiē shuǐguǒ",
+      "text_en": "Look at this fruit.",
+      "audio_clip": "audio/sent_04_01.mp3",
+      "is_discovery": false,
+      "hint_en": "Starting to browse a market stall."
+    },
+    {
+      "id": "sent_04_02_apples_are_red",
+      "text_zh": "苹果是红色的",
+      "pinyin": "píngguǒ shì hóngsè de",
+      "text_en": "The apples are red.",
+      "audio_clip": "audio/sent_04_02.mp3",
+      "is_discovery": false,
+      "hint_en": "Describing the fruit."
+    },
+    {
+      "id": "sent_04_03_how_much_is_it",
+      "text_zh": "这个多少钱",
+      "pinyin": "zhège duōshǎo qián",
+      "text_en": "How much is this?",
+      "audio_clip": "audio/sent_04_03.mp3",
+      "is_discovery": false,
+      "hint_en": "Asking the price."
+    },
+    {
+      "id": "sent_04_04_too_expensive",
+      "text_zh": "太贵了",
+      "pinyin": "tài guì le",
+      "text_en": "It's too expensive.",
+      "audio_clip": "audio/sent_04_04.mp3",
+      "is_discovery": false,
+      "hint_en": "Reacting to the price."
+    },
+    {
+      "id": "sent_04_05_i_want_two",
+      "text_zh": "我要两个",
+      "pinyin": "wǒ yào liǎng ge",
+      "text_en": "I want two.",
+      "audio_clip": "audio/sent_04_05.mp3",
+      "is_discovery": false,
+      "hint_en": "Making a purchase."
+    },
+    {
+      "id": "sent_04_06_here_is_the_money",
+      "text_zh": "这是钱",
+      "pinyin": "zhè shì qián",
+      "text_en": "Here is the money.",
+      "audio_clip": "audio/sent_04_06.mp3",
+      "is_discovery": false,
+      "hint_en": "Paying for the items."
+    },
+    {
+      "id": "sent_04_07_thank_you",
+      "text_zh": "谢谢你",
+      "pinyin": "xièxiè nǐ",
+      "text_en": "Thank you.",
+      "audio_clip": "audio/sent_04_07.mp3",
+      "is_discovery": false,
+      "hint_en": "Finishing the transaction."
+    },
+    {
+      "id": "sent_disco_04_very_fresh",
+      "text_zh": "蔬菜很新鲜",
+      "pinyin": "shūcài hěn xīnxiān",
+      "text_en": "The vegetables are very fresh.",
+      "audio_clip": "audio/sent_disco_04.mp3",
+      "is_discovery": true,
+      "hint_en": "Unlocked when a stall with vibrant produce appears."
+    },
+    {
+      "id": "sent_disco_05_very_lively",
+      "text_zh": "这里很热闹",
+      "pinyin": "zhèlǐ hěn rènào",
+      "text_en": "It's very lively here.",
+      "audio_clip": "audio/sent_disco_05.mp3",
+      "is_discovery": true,
+      "hint_en": "Unlocked when animated people appear in the market."
+    },
+    {
+      "id": "sent_05_01_this_is_my_school",
+      "text_zh": "这是我的学校",
+      "pinyin": "zhè shì wǒ de xuéxiào",
+      "text_en": "This is my school.",
+      "audio_clip": "audio/sent_05_01.mp3",
+      "is_discovery": false,
+      "hint_en": "Arriving at school."
+    },
+    {
+      "id": "sent_05_02_i_go_to_classroom",
+      "text_zh": "我去教室",
+      "pinyin": "wǒ qù jiàoshì",
+      "text_en": "I go to the classroom.",
+      "audio_clip": "audio/sent_05_02.mp3",
+      "is_discovery": false,
+      "hint_en": "Heading to class."
+    },
+    {
+      "id": "sent_05_03_teacher_is_here",
+      "text_zh": "老师在这里",
+      "pinyin": "lǎoshī zài zhèlǐ",
+      "text_en": "The teacher is here.",
+      "audio_clip": "audio/sent_05_03.mp3",
+      "is_discovery": false,
+      "hint_en": "The lesson is about to start."
+    },
+    {
+      "id": "sent_05_04_i_read_book",
+      "text_zh": "我读书",
+      "pinyin": "wǒ dú shū",
+      "text_en": "I read a book.",
+      "audio_clip": "audio/sent_05_04.mp3",
+      "is_discovery": false,
+      "hint_en": "A classroom activity."
+    },
+    {
+      "id": "sent_05_05_i_write_characters",
+      "text_zh": "我写汉字",
+      "pinyin": "wǒ xiě hànzì",
+      "text_en": "I write Chinese characters.",
+      "audio_clip": "audio/sent_05_05.mp3",
+      "is_discovery": false,
+      "hint_en": "Practicing writing."
+    },
+    {
+      "id": "sent_05_06_i_listen_to_teacher",
+      "text_zh": "我听老师说",
+      "pinyin": "wǒ tīng lǎoshī shuō",
+      "text_en": "I listen to the teacher.",
+      "audio_clip": "audio/sent_05_06.mp3",
+      "is_discovery": false,
+      "hint_en": "Paying attention in class."
+    },
+    {
+      "id": "sent_05_07_i_have_question",
+      "text_zh": "我有一个问题",
+      "pinyin": "wǒ yǒu yī ge wèntí",
+      "text_en": "I have a question.",
+      "audio_clip": "audio/sent_05_07.mp3",
+      "is_discovery": false,
+      "hint_en": "Participating in the lesson."
+    },
+    {
+      "id": "sent_05_08_class_is_over",
+      "text_zh": "下课了",
+      "pinyin": "xiàkè le",
+      "text_en": "Class is over.",
+      "audio_clip": "audio/sent_05_08.mp3",
+      "is_discovery": false,
+      "hint_en": "The end of the lesson."
+    },
+    {
+      "id": "sent_05_09_i_play_with_friends",
+      "text_zh": "我和朋友一起玩",
+      "pinyin": "wǒ hé péngyǒu yīqǐ wán",
+      "text_en": "I play with friends.",
+      "audio_clip": "audio/sent_05_09.mp3",
+      "is_discovery": false,
+      "hint_en": "After-school fun."
+    },
+    {
+      "id": "sent_05_10_i_go_home",
+      "text_zh": "我回家",
+      "pinyin": "wǒ huí jiā",
+      "text_en": "I go home.",
+      "audio_clip": "audio/sent_05_10.mp3",
+      "is_discovery": false,
+      "hint_en": "The end of the day."
+    },
+    {
+      "id": "sent_disco_06_exam_is_tomorrow",
+      "text_zh": "明天有考试",
+      "pinyin": "míngtiān yǒu kǎoshì",
+      "text_en": "There is an exam tomorrow.",
+      "audio_clip": "audio/sent_disco_06.mp3",
+      "is_discovery": true,
+      "hint_en": "Unlocked when a calendar with a circled date appears."
+    },
+    {
+      "id": "sent_disco_07_library_is_quiet",
+      "text_zh": "图书馆很安静",
+      "pinyin": "túshūguǎn hěn ānjìng",
+      "text_en": "The library is very quiet.",
+      "audio_clip": "audio/sent_disco_07.mp3",
+      "is_discovery": true,
+      "hint_en": "Unlocked when a library scene is formed."
     }
   ],
   "📚 Tokens": [
@@ -102,6 +390,690 @@
       "grammar_role": "subject",
       "meaning_en": "you",
       "is_discovery_only": false
+    },
+    {
+      "id": "token_char_hao",
+      "text_zh": "好",
+      "pinyin": "hǎo",
+      "type": "adjective",
+      "grammar_role": "state",
+      "meaning_en": "good",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_hen",
+      "text_zh": "很",
+      "pinyin": "hěn",
+      "type": "adverb",
+      "grammar_role": "modifier",
+      "meaning_en": "very, quite",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_da",
+      "text_zh": "大",
+      "pinyin": "dà",
+      "type": "adjective",
+      "grammar_role": "state",
+      "meaning_en": "big",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_gao",
+      "text_zh": "高",
+      "pinyin": "gāo",
+      "type": "adjective",
+      "grammar_role": "state",
+      "meaning_en": "tall, high",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_zai",
+      "text_zh": "在",
+      "pinyin": "zài",
+      "type": "preposition",
+      "grammar_role": "location",
+      "meaning_en": "at, in, on",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_de",
+      "text_zh": "的",
+      "pinyin": "de",
+      "type": "particle",
+      "grammar_role": "possession",
+      "meaning_en": "(possessive/modifying particle)",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_le",
+      "text_zh": "了",
+      "pinyin": "le",
+      "type": "particle",
+      "grammar_role": "completion",
+      "meaning_en": "(indicates past/completion)",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_shi",
+      "text_zh": "是",
+      "pinyin": "shì",
+      "type": "verb",
+      "grammar_role": "linking",
+      "meaning_en": "is, am, are",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_zhe",
+      "text_zh": "这",
+      "pinyin": "zhè",
+      "type": "pronoun",
+      "grammar_role": "specifier",
+      "meaning_en": "this",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_zheli",
+      "text_zh": "这里",
+      "pinyin": "zhèlǐ",
+      "type": "pronoun",
+      "grammar_role": "location",
+      "meaning_en": "here",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_yao",
+      "text_zh": "要",
+      "pinyin": "yào",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to want",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_you",
+      "text_zh": "有",
+      "pinyin": "yǒu",
+      "type": "verb",
+      "grammar_role": "existence",
+      "meaning_en": "to have",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_char_yi_ge",
+      "text_zh": "一个",
+      "pinyin": "yī ge",
+      "type": "quantifier",
+      "grammar_role": "measure",
+      "meaning_en": "one (general measure word)",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_gongyuan",
+      "text_zh": "公园",
+      "pinyin": "gōngyuán",
+      "type": "noun",
+      "grammar_role": "place",
+      "meaning_en": "park",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_shu",
+      "text_zh": "树",
+      "pinyin": "shù",
+      "type": "noun",
+      "grammar_role": "object",
+      "meaning_en": "tree",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_niao",
+      "text_zh": "鸟",
+      "pinyin": "niǎo",
+      "type": "noun",
+      "grammar_role": "subject",
+      "meaning_en": "bird",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_prep_shang",
+      "text_zh": "上",
+      "pinyin": "shàng",
+      "type": "preposition",
+      "grammar_role": "location",
+      "meaning_en": "on, above",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_verb_changge",
+      "text_zh": "唱歌",
+      "pinyin": "chànggē",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to sing",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_noun_kafei",
+      "text_zh": "咖啡",
+      "pinyin": "kāfēi",
+      "type": "noun",
+      "grammar_role": "object",
+      "meaning_en": "coffee",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_zuo",
+      "text_zh": "坐",
+      "pinyin": "zuò",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to sit",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_pronoun_ta",
+      "text_zh": "她",
+      "pinyin": "tā",
+      "type": "pronoun",
+      "grammar_role": "subject",
+      "meaning_en": "she, her",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_kan",
+      "text_zh": "看",
+      "pinyin": "kàn",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to read, look",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_shu",
+      "text_zh": "书",
+      "pinyin": "shū",
+      "type": "noun",
+      "grammar_role": "object",
+      "meaning_en": "book",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_yinyue",
+      "text_zh": "音乐",
+      "pinyin": "yīnyuè",
+      "type": "noun",
+      "grammar_role": "subject",
+      "meaning_en": "music",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_adj_haoting",
+      "text_zh": "好听",
+      "pinyin": "hǎotīng",
+      "type": "adjective",
+      "grammar_role": "quality",
+      "meaning_en": "nice to listen to",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_mao",
+      "text_zh": "猫",
+      "pinyin": "māo",
+      "type": "noun",
+      "grammar_role": "subject",
+      "meaning_en": "cat",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_noun_yizi",
+      "text_zh": "椅子",
+      "pinyin": "yǐzi",
+      "type": "noun",
+      "grammar_role": "object",
+      "meaning_en": "chair",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_prep_xia",
+      "text_zh": "下",
+      "pinyin": "xià",
+      "type": "preposition",
+      "grammar_role": "location",
+      "meaning_en": "under, below",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_verb_shuijiao",
+      "text_zh": "睡觉",
+      "pinyin": "shuìjiào",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to sleep",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_verb_xuyao",
+      "text_zh": "需要",
+      "pinyin": "xūyào",
+      "type": "verb",
+      "grammar_role": "modal",
+      "meaning_en": "to need",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_piao",
+      "text_zh": "票",
+      "pinyin": "piào",
+      "type": "noun",
+      "grammar_role": "object",
+      "meaning_en": "ticket",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_quant_zhang",
+      "text_zh": "一张",
+      "pinyin": "yī zhāng",
+      "type": "quantifier",
+      "grammar_role": "measure",
+      "meaning_en": "one (for flat objects)",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_huoche",
+      "text_zh": "火车",
+      "pinyin": "huǒchē",
+      "type": "noun",
+      "grammar_role": "subject",
+      "meaning_en": "train",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_pronoun_nali",
+      "text_zh": "哪里",
+      "pinyin": "nǎlǐ",
+      "type": "pronoun",
+      "grammar_role": "question",
+      "meaning_en": "where",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_yihao",
+      "text_zh": "一号",
+      "pinyin": "yī hào",
+      "type": "noun",
+      "grammar_role": "specifier",
+      "meaning_en": "number one",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_zhantai",
+      "text_zh": "站台",
+      "pinyin": "zhàntái",
+      "type": "noun",
+      "grammar_role": "place",
+      "meaning_en": "platform",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_lai",
+      "text_zh": "来",
+      "pinyin": "lái",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to come",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_xinglixiang",
+      "text_zh": "行李箱",
+      "pinyin": "xínglǐxiāng",
+      "type": "noun",
+      "grammar_role": "subject",
+      "meaning_en": "suitcase",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_adj_zhong",
+      "text_zh": "重",
+      "pinyin": "zhòng",
+      "type": "adjective",
+      "grammar_role": "state",
+      "meaning_en": "heavy",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_shijian",
+      "text_zh": "时间",
+      "pinyin": "shíjiān",
+      "type": "noun",
+      "grammar_role": "subject",
+      "meaning_en": "time",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_adv_bu",
+      "text_zh": "不",
+      "pinyin": "bù",
+      "type": "adverb",
+      "grammar_role": "negation",
+      "meaning_en": "not, no",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_adj_zao",
+      "text_zh": "早",
+      "pinyin": "zǎo",
+      "type": "adjective",
+      "grammar_role": "state",
+      "meaning_en": "early",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_pronoun_zhexie",
+      "text_zh": "这些",
+      "pinyin": "zhèxiē",
+      "type": "pronoun",
+      "grammar_role": "specifier",
+      "meaning_en": "these",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_shuiguo",
+      "text_zh": "水果",
+      "pinyin": "shuǐguǒ",
+      "type": "noun",
+      "grammar_role": "object",
+      "meaning_en": "fruit",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_pingguo",
+      "text_zh": "苹果",
+      "pinyin": "píngguǒ",
+      "type": "noun",
+      "grammar_role": "object",
+      "meaning_en": "apple",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_adj_hongse",
+      "text_zh": "红色",
+      "pinyin": "hóngsè",
+      "type": "adjective",
+      "grammar_role": "color",
+      "meaning_en": "red",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_pronoun_duoshao",
+      "text_zh": "多少",
+      "pinyin": "duōshǎo",
+      "type": "pronoun",
+      "grammar_role": "question",
+      "meaning_en": "how much",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_qian",
+      "text_zh": "钱",
+      "pinyin": "qián",
+      "type": "noun",
+      "grammar_role": "object",
+      "meaning_en": "money",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_adv_tai",
+      "text_zh": "太",
+      "pinyin": "tài",
+      "type": "adverb",
+      "grammar_role": "modifier",
+      "meaning_en": "too",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_adj_gui",
+      "text_zh": "贵",
+      "pinyin": "guì",
+      "type": "adjective",
+      "grammar_role": "state",
+      "meaning_en": "expensive",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_quant_liangge",
+      "text_zh": "两个",
+      "pinyin": "liǎng ge",
+      "type": "quantifier",
+      "grammar_role": "measure",
+      "meaning_en": "two (of something)",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_xiexie",
+      "text_zh": "谢谢",
+      "pinyin": "xièxiè",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to thank",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_shucai",
+      "text_zh": "蔬菜",
+      "pinyin": "shūcài",
+      "type": "noun",
+      "grammar_role": "subject",
+      "meaning_en": "vegetables",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_adj_xinxian",
+      "text_zh": "新鲜",
+      "pinyin": "xīnxiān",
+      "type": "adjective",
+      "grammar_role": "state",
+      "meaning_en": "fresh",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_adj_renao",
+      "text_zh": "热闹",
+      "pinyin": "rènào",
+      "type": "adjective",
+      "grammar_role": "state",
+      "meaning_en": "lively, bustling",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_noun_xuexiao",
+      "text_zh": "学校",
+      "pinyin": "xuéxiào",
+      "type": "noun",
+      "grammar_role": "place",
+      "meaning_en": "school",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_qu",
+      "text_zh": "去",
+      "pinyin": "qù",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to go",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_jiaoshi",
+      "text_zh": "教室",
+      "pinyin": "jiàoshì",
+      "type": "noun",
+      "grammar_role": "place",
+      "meaning_en": "classroom",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_laoshi",
+      "text_zh": "老师",
+      "pinyin": "lǎoshī",
+      "type": "noun",
+      "grammar_role": "subject",
+      "meaning_en": "teacher",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_du",
+      "text_zh": "读",
+      "pinyin": "dú",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to read",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_xie",
+      "text_zh": "写",
+      "pinyin": "xiě",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to write",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_hanzi",
+      "text_zh": "汉字",
+      "pinyin": "hànzì",
+      "type": "noun",
+      "grammar_role": "object",
+      "meaning_en": "Chinese characters",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_ting",
+      "text_zh": "听",
+      "pinyin": "tīng",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to listen",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_shuo",
+      "text_zh": "说",
+      "pinyin": "shuō",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to speak",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_wenti",
+      "text_zh": "问题",
+      "pinyin": "wèntí",
+      "type": "noun",
+      "grammar_role": "object",
+      "meaning_en": "question",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_xiake",
+      "text_zh": "下课",
+      "pinyin": "xiàkè",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "class is over",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_prep_he",
+      "text_zh": "和",
+      "pinyin": "hé",
+      "type": "preposition",
+      "grammar_role": "conjunction",
+      "meaning_en": "and, with",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_pengyou",
+      "text_zh": "朋友",
+      "pinyin": "péngyǒu",
+      "type": "noun",
+      "grammar_role": "object",
+      "meaning_en": "friend",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_adv_yiqi",
+      "text_zh": "一起",
+      "pinyin": "yīqǐ",
+      "type": "adverb",
+      "grammar_role": "manner",
+      "meaning_en": "together",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_wan",
+      "text_zh": "玩",
+      "pinyin": "wán",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to play",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_verb_hui",
+      "text_zh": "回",
+      "pinyin": "huí",
+      "type": "verb",
+      "grammar_role": "action",
+      "meaning_en": "to return",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_jia",
+      "text_zh": "家",
+      "pinyin": "jiā",
+      "type": "noun",
+      "grammar_role": "place",
+      "meaning_en": "home",
+      "is_discovery_only": false
+    },
+    {
+      "id": "token_noun_mingtian",
+      "text_zh": "明天",
+      "pinyin": "míngtiān",
+      "type": "noun",
+      "grammar_role": "time",
+      "meaning_en": "tomorrow",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_noun_kaoshi",
+      "text_zh": "考试",
+      "pinyin": "kǎoshì",
+      "type": "noun",
+      "grammar_role": "subject",
+      "meaning_en": "exam",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_noun_tushuguan",
+      "text_zh": "图书馆",
+      "pinyin": "túshūguǎn",
+      "type": "noun",
+      "grammar_role": "place",
+      "meaning_en": "library",
+      "is_discovery_only": true
+    },
+    {
+      "id": "token_adj_anjing",
+      "text_zh": "安静",
+      "pinyin": "ānjìng",
+      "type": "adjective",
+      "grammar_role": "state",
+      "meaning_en": "quiet",
+      "is_discovery_only": true
     }
   ],
   "🌍 WorldTiles": [
@@ -122,6 +1094,249 @@
       "animation_tags": "",
       "scene_description": "A wide, grassy isometric ground tile. Unlocked by \"The park is big,\" it establishes the large, open space of the chapter.",
       "hex_color": "#ABEBC6"
+    },
+    {
+      "id": "tile_obj_tall_tree",
+      "name": "Tall Tree",
+      "type": "vegetation",
+      "theme": "nature",
+      "animation_tags": "tree",
+      "scene_description": "A noticeably tall, sprawling isometric oak tree. Unlocked by \"The tree is tall,\" its height is its defining feature, drawing the eye upward.",
+      "hex_color": "#27AE60"
+    },
+    {
+      "id": "tile_obj_coffee_cup",
+      "name": "Coffee Cup",
+      "type": "object",
+      "theme": "urban",
+      "animation_tags": "food",
+      "scene_description": "An isometric ceramic cup with steam gently rising from it. Unlocked by \"I want coffee,\" it's the object of desire.",
+      "hex_color": "#D5B45A"
+    },
+    {
+      "id": "tile_obj_cafe_chair",
+      "name": "Cafe Chair",
+      "type": "object",
+      "theme": "urban",
+      "animation_tags": "",
+      "scene_description": "A simple, elegant isometric wooden chair. Unlocked by \"I sit here,\" it provides the place to sit and enjoy the cafe.",
+      "hex_color": "#873600"
+    },
+    {
+      "id": "tile_obj_reading_person",
+      "name": "Reading Person",
+      "type": "animated",
+      "theme": "urban",
+      "animation_tags": "",
+      "scene_description": "An isometric character sitting in a chair, focused on a book. Unlocked by \"She reads a book,\" it adds another quiet presence to the scene.",
+      "hex_color": "#5DADE2"
+    },
+    {
+      "id": "tile_obj_music_notes",
+      "name": "Music Notes",
+      "type": "animated",
+      "theme": "urban",
+      "animation_tags": "music",
+      "scene_description": "Floating, stylized isometric musical notes that drift through the air. Unlocked by \"The music is nice,\" it visually represents the pleasant ambiance.",
+      "hex_color": "#AF7AC5"
+    },
+    {
+      "id": "tile_obj_ticket_counter",
+      "name": "Ticket Counter",
+      "type": "structure",
+      "theme": "transport",
+      "animation_tags": "",
+      "scene_description": "An isometric counter with a 'Tickets' sign. Unlocked by \"I need a ticket,\" it's the place to perform the action.",
+      "hex_color": "#7F8C8D"
+    },
+    {
+      "id": "tile_obj_train_tracks",
+      "name": "Train Tracks",
+      "type": "scenery",
+      "theme": "transport",
+      "animation_tags": "",
+      "scene_description": "A section of isometric train tracks disappearing into the distance. Unlocked by \"Where is the train?,\" it creates the path for the train to arrive on.",
+      "hex_color": "#566573"
+    },
+    {
+      "id": "tile_obj_platform_one_sign",
+      "name": "Platform 1 Sign",
+      "type": "object",
+      "theme": "transport",
+      "animation_tags": "",
+      "scene_description": "An isometric sign that clearly reads \"Platform 1\". Unlocked by \"The train is on platform one,\" it provides the answer to the previous question.",
+      "hex_color": "#3498DB"
+    },
+    {
+      "id": "tile_obj_arriving_train",
+      "name": "Arriving Train",
+      "type": "animated",
+      "theme": "transport",
+      "animation_tags": "train",
+      "scene_description": "The front of an isometric train, with its headlights on, pulling into the station. Unlocked by \"The train is coming,\" it's the main event.",
+      "hex_color": "#F1C40F"
+    },
+    {
+      "id": "tile_obj_heavy_suitcase",
+      "name": "Heavy Suitcase",
+      "type": "object",
+      "theme": "transport",
+      "animation_tags": "",
+      "scene_description": "A large, bulky isometric suitcase. Unlocked by \"My suitcase is heavy,\" it visually represents the object being described.",
+      "hex_color": "#909497"
+    },
+    {
+      "id": "tile_obj_fruit_stand",
+      "name": "Fruit Stand",
+      "type": "structure",
+      "theme": "commerce",
+      "animation_tags": "",
+      "scene_description": "An isometric market stall with crates of colorful fruit. Unlocked by \"Look at this fruit,\" it establishes the scene's focus.",
+      "hex_color": "#E74C3C"
+    },
+    {
+      "id": "tile_obj_red_apples",
+      "name": "Red Apples",
+      "type": "object",
+      "theme": "commerce",
+      "animation_tags": "food",
+      "scene_description": "A crate on the stall filled with shiny, red isometric apples. Unlocked by \"The apples are red,\" it highlights the specific object being described.",
+      "hex_color": "#FF0000"
+    },
+    {
+      "id": "tile_obj_price_sign",
+      "name": "Price Sign",
+      "type": "object",
+      "theme": "commerce",
+      "animation_tags": "",
+      "scene_description": "An isometric sign showing a price. Unlocked by \"How much is this?,\" it's the source of the price information.",
+      "hex_color": "#BDC3C7"
+    },
+    {
+      "id": "tile_obj_expensive_tag",
+      "name": "Expensive Tag",
+      "type": "animated",
+      "theme": "commerce",
+      "animation_tags": "",
+      "scene_description": "The price on the sign briefly flashes and enlarges. Unlocked by \"It's too expensive,\" it visually emphasizes the high price.",
+      "hex_color": "#99A3A4"
+    },
+    {
+      "id": "tile_obj_two_apples",
+      "name": "Two Apples",
+      "type": "object",
+      "theme": "commerce",
+      "animation_tags": "food",
+      "scene_description": "Two isometric apples, separate from the main crate. Unlocked by \"I want two,\" it shows the items being purchased.",
+      "hex_color": "#C0392B"
+    },
+    {
+      "id": "tile_obj_coins",
+      "name": "Coins",
+      "type": "object",
+      "theme": "commerce",
+      "animation_tags": "",
+      "scene_description": "A small pile of isometric gold coins. Unlocked by \"Here is the money,\" it represents the payment.",
+      "hex_color": "#F39C12"
+    },
+    {
+      "id": "tile_obj_thank_you_bubble",
+      "name": "Thank You Bubble",
+      "type": "animated",
+      "theme": "commerce",
+      "animation_tags": "",
+      "scene_description": "A speech bubble with '谢谢' appears over the stall owner. Unlocked by \"Thank you,\" it shows a polite end to the interaction.",
+      "hex_color": "#2ECC71"
+    },
+    {
+      "id": "tile_obj_school_gate",
+      "name": "School Gate",
+      "type": "structure",
+      "theme": "education",
+      "animation_tags": "",
+      "scene_description": "An isometric brick gate with a sign for the school. Unlocked by \"This is my school,\" it's the entrance to the chapter's world.",
+      "hex_color": "#D35400"
+    },
+    {
+      "id": "tile_obj_classroom_door",
+      "name": "Classroom Door",
+      "type": "structure",
+      "theme": "education",
+      "animation_tags": "",
+      "scene_description": "An isometric door with a window. Unlocked by \"I go to the classroom,\" it's the next destination.",
+      "hex_color": "#A0522D"
+    },
+    {
+      "id": "tile_obj_teacher_at_desk",
+      "name": "Teacher at Desk",
+      "type": "object",
+      "theme": "education",
+      "animation_tags": "",
+      "scene_description": "An isometric teacher figure sitting at a large desk at the front of a room. Unlocked by \"The teacher is here,\" it populates the classroom.",
+      "hex_color": "#8E44AD"
+    },
+    {
+      "id": "tile_obj_open_book",
+      "name": "Open Book",
+      "type": "object",
+      "theme": "education",
+      "animation_tags": "",
+      "scene_description": "An isometric open book on a student's desk. Unlocked by \"I read a book,\" it shows the student's activity.",
+      "hex_color": "#2980B9"
+    },
+    {
+      "id": "tile_obj_writing_hand",
+      "name": "Writing Hand",
+      "type": "animated",
+      "theme": "education",
+      "animation_tags": "",
+      "scene_description": "An animated isometric hand writing characters in a notebook. Unlocked by \"I write Chinese characters,\" it visualizes the action.",
+      "hex_color": "#ECF0F1"
+    },
+    {
+      "id": "tile_obj_listening_ear",
+      "name": "Listening Ear",
+      "type": "animated",
+      "theme": "education",
+      "animation_tags": "",
+      "scene_description": "A large, stylized isometric ear icon appears near the student character. Unlocked by \"I listen to the teacher,\" it symbolizes the act of listening.",
+      "hex_color": "#F1C40F"
+    },
+    {
+      "id": "tile_obj_question_mark",
+      "name": "Question Mark",
+      "type": "animated",
+      "theme": "education",
+      "animation_tags": "",
+      "scene_description": "A large, glowing isometric question mark appears over the student's head. Unlocked by \"I have a question,\" it visualizes curiosity or confusion.",
+      "hex_color": "#3498DB"
+    },
+    {
+      "id": "tile_obj_ringing_bell",
+      "name": "Ringing Bell",
+      "type": "animated",
+      "theme": "education",
+      "animation_tags": "sound",
+      "scene_description": "An isometric school bell that rings with animated sound waves. Unlocked by \"Class is over,\" it signals the end of the lesson.",
+      "hex_color": "#E67E22"
+    },
+    {
+      "id": "tile_obj_playing_friends",
+      "name": "Playing Friends",
+      "type": "animated",
+      "theme": "education",
+      "animation_tags": "",
+      "scene_description": "Two simple isometric figures tossing a ball back and forth. Unlocked by \"I play with friends,\" it shows a happy, energetic scene.",
+      "hex_color": "#1ABC9C"
+    },
+    {
+      "id": "tile_obj_house",
+      "name": "House",
+      "type": "structure",
+      "theme": "education",
+      "animation_tags": "",
+      "scene_description": "A simple isometric house with a warm light in the window. Unlocked by \"I go home,\" it's the final destination.",
+      "hex_color": "#B03A2E"
     }
   ],
   "🔍 DiscoveryPatterns": [
@@ -133,6 +1348,60 @@
       "unlocks_token_ids": "token_noun_niao,token_prep_shang,token_verb_changge",
       "min_tiles": 2,
       "combined_scene_description": "When the 'Singing Bird' tile is unlocked, it automatically appears near the 'Tall Tree' tile. The resulting scene shows a living ecosystem, naturally suggesting the sentence 'Birds are singing in the tree'."
+    },
+    {
+      "pattern_id": "disco_02_coziness",
+      "pattern_type": "adjacent",
+      "required_tiles": "tile_obj_cafe_chair,tile_obj_sleeping_cat",
+      "unlocks_sentence_id": "sent_disco_02_cat_sleeps",
+      "unlocks_token_ids": "token_noun_mao,token_noun_yizi,token_prep_xia,token_verb_shuijiao",
+      "min_tiles": 2,
+      "combined_scene_description": "The 'Sleeping Cat' tile is designed to appear near the 'Cafe Chair'. This combination forms a cozy, peaceful scene, telling the visual story of a cat sleeping safely under the chair."
+    },
+    {
+      "pattern_id": "disco_03_urgency",
+      "pattern_type": "adjacent",
+      "required_tiles": "tile_obj_arriving_train,tile_obj_station_clock",
+      "unlocks_sentence_id": "sent_disco_03_time_is_late",
+      "unlocks_token_ids": "token_noun_shijian,token_adv_bu,token_adj_zao",
+      "min_tiles": 2,
+      "combined_scene_description": "When the 'Station Clock' tile appears showing a late hour next to the 'Arriving Train', the scene creates a sense of urgency. The visual narrative implies that time is running out."
+    },
+    {
+      "pattern_id": "disco_04_freshness",
+      "pattern_type": "cluster",
+      "required_tiles": "tile_obj_fruit_stand,tile_obj_red_apples,tile_obj_veg_crate",
+      "unlocks_sentence_id": "sent_disco_04_very_fresh",
+      "unlocks_token_ids": "token_noun_shucai,token_adj_xinxian",
+      "min_tiles": 3,
+      "combined_scene_description": "When the fruit stand, apples, and a new 'Vegetable Crate' tile appear together, the cluster of colorful, vibrant produce creates an overwhelming impression of freshness, prompting the 'The vegetables are very fresh' discovery."
+    },
+    {
+      "pattern_id": "disco_05_atmosphere",
+      "pattern_type": "cluster",
+      "required_tiles": "tile_obj_fruit_stand,tile_obj_coins,tile_obj_people_crowd",
+      "unlocks_sentence_id": "sent_disco_05_very_lively",
+      "unlocks_token_ids": "token_adj_renao",
+      "min_tiles": 3,
+      "combined_scene_description": "A stall, symbols of commerce (coins), and a crowd of people all appearing in the same area form a scene bursting with activity. This visual density naturally communicates a 'lively' atmosphere."
+    },
+    {
+      "pattern_id": "disco_06_pressure",
+      "pattern_type": "adjacent",
+      "required_tiles": "tile_obj_desk_with_homework,tile_obj_calendar",
+      "unlocks_sentence_id": "sent_disco_06_exam_is_tomorrow",
+      "unlocks_token_ids": "token_noun_mingtian,token_noun_kaoshi",
+      "min_tiles": 2,
+      "combined_scene_description": "A 'Calendar' tile showing a circled date automatically appears next to the desk with homework. This juxtaposition creates a sense of academic pressure, visually telling the story that a deadline or exam is near."
+    },
+    {
+      "pattern_id": "disco_07_serenity",
+      "pattern_type": "cluster",
+      "required_tiles": "tile_obj_library_shelf,tile_obj_open_book,tile_obj_shushing_librarian",
+      "unlocks_sentence_id": "sent_disco_07_library_is_quiet",
+      "unlocks_token_ids": "token_noun_tushuguan,token_adj_anjing",
+      "min_tiles": 3,
+      "combined_scene_description": "Bookshelves, a reading student, and a librarian with a finger to her lips all appearing together form a classic library scene. The combination of these elements visually screams 'quiet'."
     }
   ],
   "🔗 ChapterSentences": [
@@ -147,6 +1416,168 @@
       "sentence_id": "sent_01_02_park_is_big",
       "unlock_order": 2,
       "unlocked_tile_id": "tile_obj_large_park"
+    },
+    {
+      "chapter_id": "chap_01_park",
+      "sentence_id": "sent_01_03_tree_is_tall",
+      "unlock_order": 3,
+      "unlocked_tile_id": "tile_obj_tall_tree"
+    },
+    {
+      "chapter_id": "chap_02_cafe",
+      "sentence_id": "sent_02_01_i_want_coffee",
+      "unlock_order": 1,
+      "unlocked_tile_id": "tile_obj_coffee_cup"
+    },
+    {
+      "chapter_id": "chap_02_cafe",
+      "sentence_id": "sent_02_02_i_sit_here",
+      "unlock_order": 2,
+      "unlocked_tile_id": "tile_obj_cafe_chair"
+    },
+    {
+      "chapter_id": "chap_02_cafe",
+      "sentence_id": "sent_02_03_she_reads_book",
+      "unlock_order": 3,
+      "unlocked_tile_id": "tile_obj_reading_person"
+    },
+    {
+      "chapter_id": "chap_02_cafe",
+      "sentence_id": "sent_02_04_music_is_nice",
+      "unlock_order": 4,
+      "unlocked_tile_id": "tile_obj_music_notes"
+    },
+    {
+      "chapter_id": "chap_03_station",
+      "sentence_id": "sent_03_01_i_need_ticket",
+      "unlock_order": 1,
+      "unlocked_tile_id": "tile_obj_ticket_counter"
+    },
+    {
+      "chapter_id": "chap_03_station",
+      "sentence_id": "sent_03_02_where_is_train",
+      "unlock_order": 2,
+      "unlocked_tile_id": "tile_obj_train_tracks"
+    },
+    {
+      "chapter_id": "chap_03_station",
+      "sentence_id": "sent_03_03_train_is_on_platform_one",
+      "unlock_order": 3,
+      "unlocked_tile_id": "tile_obj_platform_one_sign"
+    },
+    {
+      "chapter_id": "chap_03_station",
+      "sentence_id": "sent_03_04_train_is_coming",
+      "unlock_order": 4,
+      "unlocked_tile_id": "tile_obj_arriving_train"
+    },
+    {
+      "chapter_id": "chap_03_station",
+      "sentence_id": "sent_03_05_my_suitcase_is_heavy",
+      "unlock_order": 5,
+      "unlocked_tile_id": "tile_obj_heavy_suitcase"
+    },
+    {
+      "chapter_id": "chap_04_market",
+      "sentence_id": "sent_04_01_look_at_fruit",
+      "unlock_order": 1,
+      "unlocked_tile_id": "tile_obj_fruit_stand"
+    },
+    {
+      "chapter_id": "chap_04_market",
+      "sentence_id": "sent_04_02_apples_are_red",
+      "unlock_order": 2,
+      "unlocked_tile_id": "tile_obj_red_apples"
+    },
+    {
+      "chapter_id": "chap_04_market",
+      "sentence_id": "sent_04_03_how_much_is_it",
+      "unlock_order": 3,
+      "unlocked_tile_id": "tile_obj_price_sign"
+    },
+    {
+      "chapter_id": "chap_04_market",
+      "sentence_id": "sent_04_04_too_expensive",
+      "unlock_order": 4,
+      "unlocked_tile_id": "tile_obj_expensive_tag"
+    },
+    {
+      "chapter_id": "chap_04_market",
+      "sentence_id": "sent_04_05_i_want_two",
+      "unlock_order": 5,
+      "unlocked_tile_id": "tile_obj_two_apples"
+    },
+    {
+      "chapter_id": "chap_04_market",
+      "sentence_id": "sent_04_06_here_is_the_money",
+      "unlock_order": 6,
+      "unlocked_tile_id": "tile_obj_coins"
+    },
+    {
+      "chapter_id": "chap_04_market",
+      "sentence_id": "sent_04_07_thank_you",
+      "unlock_order": 7,
+      "unlocked_tile_id": "tile_obj_thank_you_bubble"
+    },
+    {
+      "chapter_id": "chap_05_school",
+      "sentence_id": "sent_05_01_this_is_my_school",
+      "unlock_order": 1,
+      "unlocked_tile_id": "tile_obj_school_gate"
+    },
+    {
+      "chapter_id": "chap_05_school",
+      "sentence_id": "sent_05_02_i_go_to_classroom",
+      "unlock_order": 2,
+      "unlocked_tile_id": "tile_obj_classroom_door"
+    },
+    {
+      "chapter_id": "chap_05_school",
+      "sentence_id": "sent_05_03_teacher_is_here",
+      "unlock_order": 3,
+      "unlocked_tile_id": "tile_obj_teacher_at_desk"
+    },
+    {
+      "chapter_id": "chap_05_school",
+      "sentence_id": "sent_05_04_i_read_book",
+      "unlock_order": 4,
+      "unlocked_tile_id": "tile_obj_open_book"
+    },
+    {
+      "chapter_id": "chap_05_school",
+      "sentence_id": "sent_05_05_i_write_characters",
+      "unlock_order": 5,
+      "unlocked_tile_id": "tile_obj_writing_hand"
+    },
+    {
+      "chapter_id": "chap_05_school",
+      "sentence_id": "sent_05_06_i_listen_to_teacher",
+      "unlock_order": 6,
+      "unlocked_tile_id": "tile_obj_listening_ear"
+    },
+    {
+      "chapter_id": "chap_05_school",
+      "sentence_id": "sent_05_07_i_have_question",
+      "unlock_order": 7,
+      "unlocked_tile_id": "tile_obj_question_mark"
+    },
+    {
+      "chapter_id": "chap_05_school",
+      "sentence_id": "sent_05_08_class_is_over",
+      "unlock_order": 8,
+      "unlocked_tile_id": "tile_obj_ringing_bell"
+    },
+    {
+      "chapter_id": "chap_05_school",
+      "sentence_id": "sent_05_09_i_play_with_friends",
+      "unlock_order": 9,
+      "unlocked_tile_id": "tile_obj_playing_friends"
+    },
+    {
+      "chapter_id": "chap_05_school",
+      "sentence_id": "sent_05_10_i_go_home",
+      "unlock_order": 10,
+      "unlocked_tile_id": "tile_obj_house"
     }
   ],
   "📑 TeamDocs": [
@@ -169,6 +1600,18 @@
       "date": "2025-07-08",
       "author": "AI Assistant",
       "changes": "Major content overhaul. Implemented narrative flow and smooth difficulty curve for sentences in all 5 chapters. Rewrote DiscoveryPattern descriptions to reflect automatic tile placement."
+    },
+    {
+      "version": "v3.0",
+      "date": "2025-07-08",
+      "author": "AI Assistant",
+      "changes": "Scaled database to 5 full chapters with specified sentence counts. Added detailed, isometric tile descriptions. Added 'combined_scene_description' to DiscoveryPatterns to explain visual storytelling."
+    },
+    {
+      "version": "v2.0",
+      "date": "2025-07-07",
+      "author": "AI Assistant",
+      "changes": "Complete data overhaul based on quality review. Fixed token granularity, discovery loops, and data inconsistencies. Added meaning_en to Tokens and populated docs/changelog."
     }
   ]
 }
